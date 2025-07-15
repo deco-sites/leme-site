@@ -4,7 +4,7 @@
   "buttonStyle": {
     "--border-btn": "1px",
     "--rounded-btn": "0.2rem",
-    "--btn-focus-scale": 0.95,
+    "--btn-focus-scale": "1.05",
     "--animation-btn": "0.25s"
   },
   "otherStyles": {
@@ -16,10 +16,13 @@
   },
   "mode": "light",
   "mainColors": {
-    "base-100": "#2A333C",
+    "base-100": "#F9F7F1",
     "primary": "#005270",
     "secondary": "#EA7342",
     "tertiary": "#FFAB49",
     "neutral": "#FFCB8F"
+  },
+  "complementaryColors": {
+    "base-200": "#ffffff"
   }
 }
